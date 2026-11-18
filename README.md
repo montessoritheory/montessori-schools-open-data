@@ -15,6 +15,15 @@ Open, documented datasets about Montessori schools around the world, published b
 | **[Montessori Schools in Official School Registries](https://github.com/montessoritheory/montessori-schools-official-registries)** | Which schools do the governments of France, the Netherlands, England and Wales list as Montessori? | 410 open schools |
 | **[Montessori Teacher Training Programs Worldwide](https://github.com/montessoritheory/montessori-teacher-training-programs)** | Where can you train as a Montessori teacher with AMI or a MACTE accredited program? | 356 programs in 56 countries |
 
+## Archived On Zenodo
+
+Every dataset is archived with a permanent DOI:
+
+- Montessori Schools Worldwide, [10.5281/zenodo.24328199](https://doi.org/10.5281/zenodo.24328199)
+- US Montessori School Density, [10.5281/zenodo.24328203](https://doi.org/10.5281/zenodo.24328203)
+- Montessori Schools in Official School Registries, [10.5281/zenodo.24328201](https://doi.org/10.5281/zenodo.24328201)
+- Montessori Teacher Training Programs Worldwide, [10.5281/zenodo.24328180](https://doi.org/10.5281/zenodo.24328180)
+
 ## How These Datasets Are Built
 
 - **Official sources first.** School registries of three governments, the NCES Private School Universe Survey, the US Census Bureau, the MACTE accredited program search and the AMI list of training centres.
