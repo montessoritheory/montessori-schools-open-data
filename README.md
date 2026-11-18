@@ -1,6 +1,6 @@
 # Montessori Schools Open Data
 
-![Montessori School Finder open datasets](images/banner.png)
+![Montessori School Finder open datasets](banner.png)
 
 Open, documented datasets about Montessori schools around the world, published by **[Montessori School Finder](https://www.montessorischoolfinder.com/)**, the worldwide directory of Montessori schools. Every dataset comes as clean CSV files with a data dictionary, a starter notebook, the code that rebuilds it and a plain account of its limits. All are free to reuse under **CC BY 4.0**.
 
